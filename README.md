@@ -17,11 +17,3 @@ Using Streamlit and Plotly to build an interactive dashboard.
 
 5. Data Retrieval:
 Fetching data from the database to dynamically update the dashboard.
-
-NAME : VIGNESH P
-
-LinkedIn: https://www.linkedin.com/in/vignesh15502/
-
-BATCH: DT12
-
-DOMAIN : DATA SCIENCE
